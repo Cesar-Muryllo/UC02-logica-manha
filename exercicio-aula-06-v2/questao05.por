@@ -13,4 +13,4 @@ programa {
             escreva("O publico total de pagantes no estadio rei pelé foi de:", publico_geral, "torcedores.", "\n")
 
     }
-}s
+}

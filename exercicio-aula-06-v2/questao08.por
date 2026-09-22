@@ -8,9 +8,9 @@ programa {
 
                     distancia_total = distancia_ida * 2
 
-            escreva("======Resultado=====")
-            escreva("A distância total percorrida no treino foi: ", distancia_total, " metros.\n") 
+            escreva("               ======Resultado=====", "\n")
+            escreva("A distância total percorrida no treino foi: ", distancia_total, " metros.")
 
 
     }
-}   
+}

@@ -10,6 +10,6 @@ programa {
             valor_total = preco_da_tabela - desconto_em_valor
         
                 escreva("Valor do preço do com o desconto sorverte é de (R$):", valor_total)
-                escreva(":25% DE DESCONTO!")
+                escreva("25% DE DESCONTO!")
     }   
 }

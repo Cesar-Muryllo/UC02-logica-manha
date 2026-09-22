@@ -2,7 +2,8 @@ programa {
     funcao inicio() {
         // Faça um algoritmo que leia o valor total cobrado pelo jangadeiro pelo passeio do grupo e calcule a parte que cada um dos 4 amigos deve pagar.
         real valor_total, parte_dividida
-        inteiro amigos = 4
+        inteiro amigos
+                amigos = 4
 
         escreva(" ===Divisão da Conta do Grupo=== ", "\n")
         escreva("Valor total da conta (R$): ")

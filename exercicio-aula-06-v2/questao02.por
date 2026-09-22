@@ -9,7 +9,7 @@ programa {
         escreva("Digite a quantidade do combos que quer comprar: (R$): ")
         leia(quantidade)
 
-       valor_total = quantidade * valor_unitario
+        valor_total = quantidade * valor_unitario
        
         escreva("===Resumo da Compra===")
 	    escreva("Quantidade de combos: ", quantidade, "\n")
