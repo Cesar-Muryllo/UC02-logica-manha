@@ -1,0 +1,49 @@
+1. A Catraca do Vamu Estudantil
+Contexto: Thiago estuda em uma escola pública em Maceió e utiliza diariamente o ônibus
+coletivo da linha Gruta-Centro com seu cartão de transporte municipal Vamu Estudantil. O
+sistema digital do ônibus precisa validar se o aluno pode realizar a viagem de volta para casa.
+
+Desafio: Escreva um algoritmo em Portugol que leia o saldo do cartão Vamu de Thiago e se o
+cartão dele está ativo (verdadeiro ou falso). O sistema deve verificar se o acesso à catraca está
+liberado, sabendo que isso exige que o saldo do cartão seja maior ou igual ao valor da
+passagem estudantil (R$ 2.00) E que o cartão esteja ativo. Exiba o resultado lógico do acesso
+à catraca.
+
+2. Navegação Segura na Pajuçara
+Contexto: O Sr. Amaro é um jangadeiro tradicional da praia de Pajuçara e realiza passeios
+turísticos para as famosas piscinas naturais de Maceió. Ele precisa de um sistema de
+segurança simples para avaliar se o passeio de jangada pode sair do cais.
+
+Desafio: Escreva um algoritmo em Portugol que leia a altura atual da maré em metros e se o
+tempo está chuvoso (verdadeiro ou falso). Calcule se o passeio de jangada está liberado,
+sabendo que as condições de segurança exigem que a maré seja menor ou igual a 0.4 metros
+E o tempo NÃO esteja chuvoso. Mostre o resultado lógico de liberação.
+
+3. Promoção na Tapiocaria da Orla
+Contexto: Dona Sandra tem uma tapiocaria na orla marítima de Ponta Verde e quer
+automatizar a concessão de descontos em seu caixa para atrair estudantes e clientes que
+compram em grande quantidade.
+
+Desafio: Escreva um algoritmo em Portugol que leia o valor total da compra em reais e se o
+cliente é um estudante (verdadeiro ou falso). Calcule e mostre se o cliente tem direito ao
+desconto promocional, sabendo que ele ganhará o benefício se o valor total da compra for
+acima de R$ 50.00 OU se ele for estudante.
+
+4. Meia-Entrada no Estádio Rei Pelé
+Contexto: O Trapichão (Estádio Rei Pelé, no bairro do Trapiche da Barra) vai receber uma
+partida emocionante entre o CRB e o CSA. A bilheteria digital do estádio precisa verificar de
+forma automática quem tem direito de comprar ingressos de meia-entrada.
+
+Desafio: Escreva um algoritmo em Portugol que leia a idade de um torcedor e se ele possui
+carteirinha estudantil ativa (verdadeiro ou falso). Calcule e mostre se ele tem direito ao
+benefício de meia-entrada, sabendo que as regras isentam torcedores com menos de 12 anos
+OU que apresentam a carteirinha estudantil.
+
+5. A Caminhada até o Farol da Ponta Verde
+Contexto: O Farol da Ponta Verde é cercado por corais que ficam visíveis quando o mar seca.
+Muitos turistas e estudantes de Maceió gostam de caminhar sobre os recifes até o farol, mas
+isso só pode ser feito de forma segura em condições ideais.
+
+Desafio: Escreva um algoritmo em Portugol que leia a altura atual da maré em metros e se já
+está de noite (verdadeiro ou falso). Determine e mostre se a caminhada até o farol é viável,
+sabendo que a maré deve estar abaixo de 0.2 metros E NÃO pode estar de noite.

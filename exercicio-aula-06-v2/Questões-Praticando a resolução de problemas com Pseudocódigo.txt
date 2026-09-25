@@ -1,0 +1,189 @@
+
+1. O Saldo do Vamu Estudantil
+Contexto: Thiago estuda em uma escola pública em Maceió e utiliza diariamente o ônibus
+coletivo com seu cartão de transporte municipal Vamu Estudantil. Ele quer saber quanto de
+saldo restará em seu cartão após realizar uma viagem de volta para casa.
+
+Desafio: Escreva um algoritmo em Portugol que leia o saldo atual do cartão Vamu de
+Thiago e o valor cobrado pela passagem estudantil local. Calcule e mostre o saldo restante
+no cartão.
+
+
+2. O Combo de Tapiocas na Ponta Verde
+Contexto: Uma tradicional tapiocaria na orla da Ponta Verde oferece um combo com uma
+tapioca de coco com queijo coalho e um suco de graviola por um preço único. Uma família
+de turistas quer saber quanto pagará ao comprar várias unidades desse mesmo combo.
+
+Desafio: Elabore um algoritmo que leia o valor de uma unidade do combo de tapioca e a
+quantidade de combos que a família deseja comprar. Calcule e exiba o valor total da conta.
+
+
+3. Divisão da Jangada em Pajuçara
+Contexto: Um grupo de 4 amigos decidiu fazer o famoso passeio de jangada até as
+piscinas naturais de Pajuçara. Eles combinaram de dividir o custo total do aluguel da
+jangada igualmente entre eles.
+
+Desafio: Faça um algoritmo que leia o valor total cobrado pelo jangadeiro pelo passeio do
+grupo e calcule a parte que cada um dos 4 amigos deve pagar.
+
+
+4. O Troco do Artesanato na Pajuçara
+Contexto: Júlia foi à Feira de Artesanato da Pajuçara comprar um chaveiro de Maceió
+como lembrança para sua avó. Ela pagou o produto com uma nota de dinheiro de valor
+maior e precisa conferir o troco que receberá do feirante.
+
+Desafio: Crie um algoritmo que leia o valor do souvenir comprado e o valor em dinheiro
+entregue por Júlia. Mostre na tela quanto ela deve receber de troco.
+
+
+5. Estatísticas de Público no Trapichão
+Contexto: A administração do Estádio Rei Pelé (o Trapichão) deseja calcular de forma
+rápida o público total pagante em uma partida de futebol, dividindo o estádio em dois
+setores principais: as arquibancadas e as cadeiras especiais.
+
+Desafio: Elabore um algoritmo que receba o número de torcedores pagantes nas
+arquibancadas e a quantidade de torcedores pagantes nas cadeiras especiais. Calcule e
+exiba o público total do estádio.
+
+
+6. Custo Mensal do Ônibus Alagoano
+Contexto: Um estudante de Maceió precisa se programar financeiramente para depositar o
+valor exato no cartão de transporte para o mês letivo de 20 dias úteis (considerando uma
+ida e uma volta por dia).
+
+Desafio: Desenvolva um algoritmo que leia o custo unitário de uma passagem de ônibus
+estudantil. Calcule o custo total mensal necessário para que o estudante realize 40 viagens
+ao longo do mês.
+
+
+7. Desconto na Sorveteria Orla
+Contexto: Uma tradicional sorveteria na Avenida Sílvio Viana (Ponta Verde) está
+oferecendo um desconto especial em reais para qualquer cliente que trouxer uma
+embalagem térmica reutilizável de casa.
+
+Desafio: Escreva um algoritmo que leia o preço de tabela do pote de sorvete de 1 litro e o
+valor do desconto oferecido. Calcule e exiba o preço final com desconto que o cliente
+pagará.
+
+
+8. Treino de Corrida na Praia
+Contexto: Um atleta faz treinos diários de corrida na ciclovia da orla de Maceió. Ele corre
+uma certa distância de ida saindo da Pajuçara em direção a Cruz das Almas, e depois
+retorna o mesmo caminho.
+
+Desafio: Faça um algoritmo que leia a distância percorrida pelo atleta apenas no percurso
+de ida (em metros). Calcule e mostre a distância total percorrida somando a ida e a volta do
+treino.
+
+
+9. Consumo na AL-101 Sul
+Contexto: Uma família fez uma viagem de Maceió até a praia do Francês (Marechal
+Deodoro) pela AL-101 Sul. O motorista quer calcular o consumo médio de combustível do
+automóvel nessa rodovia plana.
+
+Desafio: Desenvolva um algoritmo que leia a distância total percorrida (em quilômetros) e a
+quantidade de combustível consumida (em litros). Calcule e mostre quantos quilômetros o
+carro percorreu por litro.
+
+
+10. Calorias do Lanche da Cantina
+Contexto: A cantina de uma escola estadual de Maceió possui uma tabela nutricional fixada
+na parede. Um estudante comprou um salgado assado e uma caixinha de suco natural e
+quer calcular o total de calorias ingeridas no recreio.
+
+Desafio: Elabore um algoritmo em Portugol que receba a quantidade de calorias do salgado
+assado e a quantidade de calorias do suco de fruta. Calcule e mostre a soma total das
+calorias ingeridas pelo estudante.
+
+
+11. Meia-Entrada no Cinema da Cidade
+Contexto: Um grupo de estudantes secundaristas marcou de assistir a um filme nacional
+em um shopping de Maceió utilizando o benefício da meia-entrada estudantil garantido por
+lei.
+
+Desafio: Crie um algoritmo que leia o valor padrão do ingresso de cinema inteiro e o
+número de estudantes do grupo. Calcule o preço da meia-entrada e exiba o custo total a ser
+pago pelo grupo de amigos.
+
+
+12. Pontos do Azulão ou do Galo no Campeonato
+Contexto: Um torcedor do CSA (Azulão do Mutange) ou do CRB (Galo da Pajuçara) quer
+fazer as contas rápidas de quantos pontos seu time do coração acumulou no campeonato
+estadual de futebol considerando apenas as suas vitórias.
+
+Desafio: Sabendo que cada vitória em futebol vale exatamente 3 pontos na tabela, escreva
+um algoritmo que leia o número de vitórias conquistadas pelo clube e exiba a pontuação
+acumulada dessas vitórias.
+
+
+13. Rateio do Açaí da Turma
+Contexto: Três alunos do ensino médio de Maceió decidiram rachar a conta de um pote de
+1 quilo de açaí que pediram para refrescar a tarde quente de verão na escola.
+
+Desafio: Faça um algoritmo que leia o valor total cobrado pelo pote de açaí e calcule o valor
+exato a ser pago por cada um dos 3 amigos.
+
+
+14. Tempo de Bike na Orla
+Contexto: Mariana aluga uma bicicleta compartilhada na ciclovia de Maceió. Ela sabe a
+velocidade média de pedalada e quer calcular quanto tempo gastará para chegar ao seu
+destino.
+
+Desafio: Desenvolva um algoritmo que leia a distância a ser percorrida (em metros) e a
+velocidade de pedalada (em metros por minuto). Calcule e mostre o tempo total estimado
+de viagem em minutos.
+
+
+15. Venda de Cocada na Orla
+Contexto: Dona Maria vende tradicionais cocadas caseiras perto do farol da Ponta Verde.
+Ela precisa de um programa rápido no celular para somar seu faturamento bruto ao final de
+um dia de trabalho.
+
+Desafio: Elabore um algoritmo que leia o preço fixo de venda de uma cocada e a
+quantidade total de cocadas vendidas naquele dia. Exiba o faturamento bruto total.
+
+
+16. Economia para o Ingresso do Show
+Contexto: Um estudante de Maceió quer ir a um show de música local que acontecerá no
+bairro do Jaraguá. Ele decidiu guardar uma quantia fixa em dinheiro toda semana durante
+quatro semanas consecutivas.
+
+Desafio: Crie um algoritmo que leia o valor semanal que o aluno conseguirá poupar.
+Calcule e exiba o montante total poupado após as 4 semanas para ele comprar seu
+ingresso.
+
+
+17. Rendimento Mensal da Tapiocaria
+Contexto: O proprietário de um quiosque de tapiocas na orla de Maceió quer calcular o
+lucro líquido obtido em uma noite de vendas, subtraindo os custos operacionais
+(ingredientes, gás) de sua receita bruta obtida.
+
+Desafio: Faça um algoritmo que leia o faturamento bruto de vendas da tapiocaria e o custo
+de todos os insumos utilizados. Calcule e mostre o lucro líquido final do negócio.
+
+
+18. Tempo Restante de Carga do Celular
+Contexto: Enquanto estuda programação lógica, o smartphone do aluno está na tomada.
+Ele quer saber quantos minutos faltam para a bateria atingir 100% de carga.
+
+Desafio: Escreva um algoritmo que leia a carga atual da bateria do celular (em
+porcentagem de 0 a 100) e o tempo médio necessário para carregar 1% de bateria (em
+minutos). Calcule e exiba o tempo restante estimado para a carga completa.
+
+
+19. Comissão do Vendedor de Picolé
+Contexto: Para ajudar na renda de casa, um jovem trabalha como vendedor de picolés na
+movimentada praia de Pajuçara. Ele ganha uma comissão fixa de R$ 2,00 por cada picolé
+vendido.
+
+Desafio: Desenvolva um algoritmo que leia a quantidade de picolés vendidos pelo jovem ao
+final de um dia ensolarado. Calcule e exiba o valor final da comissão que ele receberá.
+
+
+20. Média das Notas de Lógica
+Contexto: O professor de lógica de programação da escola pública de Maceió vai gerar a
+nota do bimestre calculando a média aritmética simples entre as duas atividades
+desenvolvidas pelos alunos em sala.
+
+Desafio: Faça um algoritmo que leia as notas das duas avaliações (Nota 1 e Nota 2) de um
+estudante. Calcule a média aritmética simples das notas e exiba a nota bimestral do aluno.
