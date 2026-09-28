@@ -1,3 +1,4 @@
+
 1. A Catraca do Vamu Estudantil
 Contexto: Thiago estuda em uma escola pública em Maceió e utiliza diariamente o ônibus
 coletivo da linha Gruta-Centro com seu cartão de transporte municipal Vamu Estudantil. O
