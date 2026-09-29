@@ -1,0 +1,60 @@
+
+6. Inscrição para Estágio no SENAI Poço
+Contexto: O SENAI Maceió (unidade Poço) está realizando o processo seletivo de seus
+melhores alunos para um prestigiado programa de estágio em indústrias químicas locais. O
+sistema de triagem analisa as notas e a assiduidade dos alunos.
+
+Desafio: Escreva um algoritmo em Portugol que leia a média geral do aluno (de 0.0 a 10.0) e
+a frequência em porcentagem (de 0 a 100). Verifique e exiba se a inscrição do aluno para o
+estágio foi aprovada, o que exige que a média seja maior ou igual a 8.0 E que a frequência
+seja maior ou igual a 75%.
+
+7. Pagamento no Posto Jatiúca
+Contexto: Eduardo é motorista de aplicativo em Maceió e precisa abastecer o carro em um
+posto de Jatiúca. Ao passar o cartão de crédito corporativo, o terminal de pagamento do
+posto realiza duas validações de segurança.
+
+Desafio: Escreva um algoritmo em Portugol que leia o limite de crédito disponível no cartão
+de Eduardo em reais, o valor total do abastecimento e se o cartão está bloqueado (verdadeiro
+ou falso). Calcule e mostre se a transação foi aprovada, o que exige que o valor do
+abastecimento seja menor ou igual ao limite disponível E o cartão NÃO esteja bloqueado.
+
+8. Triagem de Doação no HemoalContexto: O HEMOAL (Centro de Hemoterapia de Alagoas), em Maceió, precisa
+automatizar o primeiro filtro do formulário de triagem de doadores voluntários para garantir
+que eles estejam aptos fisicamente antes da coleta.
+
+Desafio: Escreva um algoritmo em Portugol que leia o peso em kg e a idade do candidato a
+doador. O sistema deve calcular e exibir se ele está apto para doar sangue, considerando que
+ele deve pesar no mínimo 50.0 kg E ter idade maior ou igual a 16 anos E menor ou igual a 69
+anos.
+
+9. Abertura do Quiosque na Praia da Jatiúca
+Contexto: O Sr. Cláudio possui um quiosque de coco e lanches na praia de Jatiúca. Para
+planejar as compras de insumos do dia, ele decide abrir o comércio completo apenas se as
+condições de público forem muito favoráveis.
+
+Desafio: Escreva um algoritmo em Portugol que leia se a previsão do tempo de hoje é
+ensolarada (verdadeiro ou falso) e se hoje é feriado (verdadeiro ou falso). Calcule e informe
+se o quiosque será aberto para atendimento, sabendo que ele abrirá se o tempo estiver
+ensolarado OU se for feriado.
+
+10. Bicicleta Compartilhada na Ciclovia do Sobral
+Contexto: Na ciclovia da Avenida Assis Chateaubriand, na orla sul de Maceió, a prefeitura
+disponibiliza estações de bicicletas compartilhadas. Um estudante quer liberar uma bicicleta
+para praticar esportes.
+
+Desafio: Escreva um algoritmo em Portugol que leia se o cadastro do estudante está ativo
+(verdadeiro ou falso), o saldo de créditos de viagem dele e se ele possui passe livre estudantil
+ativo (verdadeiro ou falso). Determine se a liberação da bicicleta foi concluída, sabendo que
+ela ocorre se o cadastro do usuário estiver ativo E (o saldo de viagens for maior que zero OU
+se ele possuir passe livre).
+
+11. Viagem de Carro Maceió-Maragogi
+Contexto: Júlia quer viajar de Maceió até as belas praias de Maragogi (distância de cerca de
+130 km). Ela quer saber se o dinheiro físico que possui em sua carteira é suficiente para
+comprar toda a gasolina necessária para realizar o trajeto de ida.
+
+Desafio: Escreva um algoritmo em Portugol que leia o valor total em dinheiro que Júlia
+possui e a distância da viagem em km. Calcule os litros necessários de gasolina (sabendo que
+o veículo consome 1 litro a cada 10 km), o custo total da viagem (com a gasolina a R$ 6.00
+por litro em Maceió) e determine se o dinheiro é suficiente para realizar a viagem.

@@ -8,7 +8,7 @@ programa {
                     leia(altura_mare)
                 escreva("O tempo está chuvoso(Sim/Não)? ")
                     leia(verifica_Tempo_Chuvoso)
-            tempo_chuvoso = verificaTempoChuvoso == "Não"
+            tempo_chuvoso = verifica_Tempo_Chuvoso == "Não"
         
         se (altura_mare <= 0.4 e tempo_chuvoso) {
             escreva("O mar está otimo para levar os turistas para o passeio!")
